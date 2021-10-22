@@ -1,0 +1,22 @@
+{
+    "user": [
+      {
+        "name": "Nguyễn Minh Hiếu",
+        "tel": "0927379173",
+        "email": "testclient@socialyze.asia",
+        "id": 1
+      },
+      {
+        "name": "Nguyễn Minh Hiếu",
+        "tel": "0927379173",
+        "email": "testclient@socialyze.asia",
+        "id": 2
+      },
+      {
+        "name": "Nguyễn Minh Hiếu",
+        "tel": "0927379173",
+        "email": "testclient@socialyze.asia",
+        "id": 3
+      }
+    ]
+  }
